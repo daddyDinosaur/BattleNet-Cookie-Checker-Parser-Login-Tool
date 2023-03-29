@@ -14,8 +14,11 @@ BattleNet cookie login functionality.
 
 # Dependencies
 Python 3.x
+
 Requests library
+
 os, sys, json, time, datetime, re, and threading modules (standard Python libraries)
+
 MitmDump
 
 # Installation
