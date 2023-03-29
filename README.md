@@ -22,8 +22,8 @@ Clone this repository or download the source code.
 Install the required dependencies using pip.
 Run the batch file to be able to use the login tool.
 
-#Contributing
+# Contributing
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue with your suggestions or bug reports.
 
-#License
+# License
 This project is licensed under the MIT License. See the LICENSE file for more information.
