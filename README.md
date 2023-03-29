@@ -6,11 +6,17 @@ This tool is for educational purposes only. Unauthorized use of someone else's c
 
 # Features
 Extract account details, authentication, payment methods, and transactions from BattleNet cookies.
+
 Multithreading support for faster processing.
+
 Save extracted data in an organized folder structure.
+
 Proxy support.
+
 Parsing and searching files containing BattleNet cookies.
+
 BattleNet cookie login functionality.
+
 
 # Dependencies
 Python 3.x
@@ -23,8 +29,11 @@ MitmDump
 
 # Installation
 Clone this repository or download the source code.
+
 Install the required dependencies using pip.
+
 Run the batch file to be able to use the login tool.
+
 
 # MitmDump Setup
 MitmDump is required for the login tool functionality. To set up MitmDump, follow these steps:
