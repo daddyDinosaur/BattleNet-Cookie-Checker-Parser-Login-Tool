@@ -26,10 +26,15 @@ Run the batch file to be able to use the login tool.
 # MitmDump Setup
 MitmDump is required for the login tool functionality. To set up MitmDump, follow these steps:
 
+
 Install MitmDump using the instructions provided on the official website.
+
 Set up a transparent proxy with MitmDump. You can find a tutorial on how to do this in the official documentation.
+
 Once the proxy is set up, configure your device to use the proxy for internet traffic.
+
 Start MitmDump with the appropriate command-line options (e.g., -p for the proxy port). For more information, refer to the official documentation.
+
 
 # Contributing
 If you would like to contribute to this project, please feel free to submit a pull request or open an issue with your suggestions or bug reports.
