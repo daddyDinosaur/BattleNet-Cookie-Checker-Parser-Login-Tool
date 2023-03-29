@@ -27,6 +27,7 @@ Run the batch file to be able to use the login tool.
 MitmDump is required for the login tool functionality. To set up MitmDump, follow these steps:
 
 
+
 Install MitmDump using the instructions provided on the official website.
 
 Set up a transparent proxy with MitmDump. You can find a tutorial on how to do this in the official documentation.
